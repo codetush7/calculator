@@ -19,3 +19,7 @@ Supports basic arithmetic operations, backspace, clear, parentheses, powers, and
 
 ## 📦 Requirements
 Only built-in Python libraries are used:
+
+
+<br>
+Author- Tushar Maharana
