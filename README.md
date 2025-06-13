@@ -14,7 +14,7 @@ Supports basic arithmetic operations, backspace, clear, parentheses, powers, and
   - `←` – Backspace (delete last character)
   - `= ` – Evaluate the expression
 - Keyboard-style layout
-- Responsive resizing with `grid()` and 
+- Responsive resizing with `grid()`
 - AST-based evaluation for safety
 
 ## 📦 Requirements
